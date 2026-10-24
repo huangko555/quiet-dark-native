@@ -1,0 +1,30 @@
+{
+  "name": "quiet-dark-native",
+  "displayName": "Quiet Dark Native 2026 Blue",
+  "description": "Panda workbench with blue accents, readable menu selection and muted UI text; native VS Code Dark 2026 document colors.",
+  "version": "1.0.19",
+  "publisher": "local-themes",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/huangko555/quiet-dark-native.git"
+  },
+  "scripts": {
+    "package": "python scripts/package_theme.py"
+  },
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "id": "Quiet Dark Native 2026 Blue",
+        "label": "Quiet Dark Native 2026 Blue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/quiet-dark-native-color-theme.json"
+      }
+    ]
+  }
+}
