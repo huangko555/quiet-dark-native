@@ -76,14 +76,14 @@
     "statusBar.noFolderForeground": "#CCCCCC",
     "statusBar.debuggingBackground": "#0E639C",
     "statusBar.debuggingForeground": "#FFFFFF",
-    "titleBar.activeBackground": "#242526",
+    "titleBar.activeBackground": "#202122",
     "titleBar.activeForeground": "#CCCCCC",
-    "titleBar.inactiveBackground": "#242526",
+    "titleBar.inactiveBackground": "#202122",
     "titleBar.inactiveForeground": "#CCCCCC",
     "tab.activeBackground": "#363738",
     "tab.activeForeground": "#EDEDED",
     "tab.activeBorder": "#007ACC",
-    "tab.inactiveBackground": "#242526",
+    "tab.inactiveBackground": "#202122",
     "tab.inactiveForeground": "#CCCCCC",
     "terminalCursor.background": "#191A1B",
     "terminalCursor.foreground": "#bfbfbf",
@@ -120,7 +120,11 @@
     "editorBracketMatch.background": "#3994BC55",
     "editorSuggestWidget.selectedForeground": "#FFFFFF",
     "editorSuggestWidget.selectedIconForeground": "#FFFFFF",
-    "editorSuggestWidget.focusHighlightForeground": "#FFFFFF"
+    "editorSuggestWidget.focusHighlightForeground": "#FFFFFF",
+    "editorGroupHeader.tabsBackground": "#202122",
+    "modernEditorTab.inactiveBackground": "#202122",
+    "tab.unfocusedInactiveBackground": "#202122",
+    "editorGroupHeader.connectedTabsBackground": "#202122"
   },
   "tokenColors": [
     {
