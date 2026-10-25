@@ -4,23 +4,23 @@
 
 ## 安装
 
-当前版本：**1.0.21**。
+当前版本：**1.0.22**。
 
-1. 使用仓库中的 [dist/quiet-dark-native-1.0.21.vsix](dist/quiet-dark-native-1.0.21.vsix) 安装包。在 GitHub 文件页点击下载按钮，将文件保存到本机。
+1. 使用仓库中的 [dist/quiet-dark-native-1.0.22.vsix](dist/quiet-dark-native-1.0.22.vsix) 安装包。在 GitHub 文件页点击下载按钮，将文件保存到本机。
 2. 打开 VS Code 扩展面板右上角菜单，选择“从 VSIX 安装”。
 3. 安装后，在颜色主题列表选择 **Quiet Dark Native 2026 Blue**。
 
 也可以在仓库目录执行：
 
 ```powershell
-code --install-extension .\dist\quiet-dark-native-1.0.21.vsix --force
+code --install-extension .\dist\quiet-dark-native-1.0.22.vsix --force
 ```
 
 主题已包含完整颜色定义，不依赖 Panda 或其他主题扩展，无需复制个人 settings.json。已有的全局颜色自定义可能覆盖主题的对应颜色。
 
 ## 配色
 
-顶部标题栏背景为 #222223；标签栏和未选中标签页的背景为 #242526，窗口失焦时也保持相应颜色。
+顶部标题栏背景为 #222223；标签栏、未选中标签页及文件路径（面包屑）栏的背景为 #242526，窗口失焦时也保持相应颜色。
 
 普通界面文字采用深色+的灰白色 #CCCCCC；命令面板及菜单选中项采用深蓝色 #04395E 背景和白色文字，以提高辨识度。
 

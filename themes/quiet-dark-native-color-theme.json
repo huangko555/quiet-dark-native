@@ -124,7 +124,8 @@
     "editorGroupHeader.tabsBackground": "#242526",
     "modernEditorTab.inactiveBackground": "#242526",
     "tab.unfocusedInactiveBackground": "#242526",
-    "editorGroupHeader.connectedTabsBackground": "#242526"
+    "editorGroupHeader.connectedTabsBackground": "#242526",
+    "breadcrumb.background": "#242526"
   },
   "tokenColors": [
     {
