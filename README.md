@@ -4,16 +4,16 @@
 
 ## 安装
 
-当前版本：**1.0.24**。
+当前版本：**1.0.25**。
 
-1. 使用仓库中的 [dist/quiet-dark-native-1.0.24.vsix](dist/quiet-dark-native-1.0.24.vsix) 安装包。在 GitHub 文件页点击下载按钮，将文件保存到本机。
+1. 使用仓库中的 [dist/quiet-dark-native-1.0.25.vsix](dist/quiet-dark-native-1.0.25.vsix) 安装包。在 GitHub 文件页点击下载按钮，将文件保存到本机。
 2. 打开 VS Code 扩展面板右上角菜单，选择“从 VSIX 安装”。
 3. 安装后，在颜色主题列表选择 **Quiet Dark Native 2026 Blue**。
 
 也可以在仓库目录执行：
 
 ```powershell
-code --install-extension .\dist\quiet-dark-native-1.0.24.vsix --force
+code --install-extension .\dist\quiet-dark-native-1.0.25.vsix --force
 ```
 
 主题已包含完整颜色定义，不依赖 Panda 或其他主题扩展，无需复制个人 settings.json。已有的全局颜色自定义可能覆盖主题的对应颜色。
@@ -38,7 +38,7 @@ code --install-extension .\dist\quiet-dark-native-1.0.24.vsix --force
 
 当前标签页和侧边栏选中文件的文字统一使用 #EDEDED；窗口失焦及列表焦点状态也使用相同文字色。
 
-当前标签页和侧边栏选中文件的背景色统一为 #363738；标签页和侧边栏列表的悬停背景从原来的 #292A2B 提亮为 #303132，亮度低于选中背景，支持现代标签栏。选中项在悬停时保留选中背景；VS Code 原生列表仅对未选中、未聚焦行应用悬停色。
+当前标签页背景为 #2F3031，侧边栏选中文件背景为 #363738；未选中标签页和侧边栏列表的悬停背景为 #303132，当前标签页悬停背景为 #363738，支持现代标签栏。VS Code 原生列表仅对未选中、未聚焦行应用悬停色。
 
 错误提示、删除操作和删除差异标记采用 Dark+ 的内置深色默认配色，主错误色为 #F48771，移除 Panda 原有的品红色覆盖。
 
