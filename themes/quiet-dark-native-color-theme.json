@@ -76,14 +76,14 @@
     "statusBar.noFolderForeground": "#CCCCCC",
     "statusBar.debuggingBackground": "#0E639C",
     "statusBar.debuggingForeground": "#FFFFFF",
-    "titleBar.activeBackground": "#202122",
+    "titleBar.activeBackground": "#222223",
     "titleBar.activeForeground": "#CCCCCC",
-    "titleBar.inactiveBackground": "#202122",
+    "titleBar.inactiveBackground": "#222223",
     "titleBar.inactiveForeground": "#CCCCCC",
     "tab.activeBackground": "#363738",
     "tab.activeForeground": "#EDEDED",
     "tab.activeBorder": "#007ACC",
-    "tab.inactiveBackground": "#202122",
+    "tab.inactiveBackground": "#242526",
     "tab.inactiveForeground": "#CCCCCC",
     "terminalCursor.background": "#191A1B",
     "terminalCursor.foreground": "#bfbfbf",
@@ -121,10 +121,10 @@
     "editorSuggestWidget.selectedForeground": "#FFFFFF",
     "editorSuggestWidget.selectedIconForeground": "#FFFFFF",
     "editorSuggestWidget.focusHighlightForeground": "#FFFFFF",
-    "editorGroupHeader.tabsBackground": "#202122",
-    "modernEditorTab.inactiveBackground": "#202122",
-    "tab.unfocusedInactiveBackground": "#202122",
-    "editorGroupHeader.connectedTabsBackground": "#202122"
+    "editorGroupHeader.tabsBackground": "#242526",
+    "modernEditorTab.inactiveBackground": "#242526",
+    "tab.unfocusedInactiveBackground": "#242526",
+    "editorGroupHeader.connectedTabsBackground": "#242526"
   },
   "tokenColors": [
     {
