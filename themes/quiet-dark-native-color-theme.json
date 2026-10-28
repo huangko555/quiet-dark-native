@@ -103,7 +103,7 @@
     "terminal.ansiWhite": "#CDCDCD",
     "terminal.ansiYellow": "#FFB86C",
     "quickInput.foreground": "#CCCCCC",
-    "quickInputList.focusBackground": "#04395E",
+    "quickInputList.focusBackground": "#0E639C",
     "quickInputList.focusForeground": "#FFFFFF",
     "quickInputList.focusIconForeground": "#FFFFFF",
     "quickInputList.focusHighlightForeground": "#FFFFFF",
